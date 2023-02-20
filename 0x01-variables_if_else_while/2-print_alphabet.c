@@ -5,12 +5,11 @@
  * Description: prints the alphabet in lowercase
  * Return: Always 0 (Success)
 */
-
 int main(void)
 {
 	char ch = 'a';
 	
- 	while (ch <= 'z')
+	while (ch <= 'z')
 	{
 		putchar(ch);
 		++ch;
