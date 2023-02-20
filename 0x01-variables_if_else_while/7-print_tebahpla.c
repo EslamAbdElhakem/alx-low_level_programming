@@ -1,4 +1,4 @@
-* headers */
+/* headers */
 #include <stdio.h>
 /**
  * main - Entry point
