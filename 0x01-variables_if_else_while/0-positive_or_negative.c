@@ -4,7 +4,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: print whether the number stored in the variable n is positive or negative
+ * Description: print whether the number n is positive or negative
  * Return: Always 0 (Success)
 */
 
