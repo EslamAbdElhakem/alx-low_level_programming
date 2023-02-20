@@ -9,6 +9,7 @@
 int main(void)
 {
 	int num = 48; /*48; decimal rep of 0*/
+
 	while (num <= 102) /*102; decimal rep of f*/
 	{
 		putchar(num);
