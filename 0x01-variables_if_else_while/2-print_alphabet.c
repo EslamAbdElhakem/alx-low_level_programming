@@ -1,5 +1,5 @@
-/* headers */
 #include <stdio.h>
+/* headers */
 /**
  * main - Entry point
  * Description: prints the alphabet in lowercase
